@@ -1,0 +1,13 @@
+.vscode
+.idea
+
+/dist/*
+/node_modules/**
+
+**/*.svg
+**/*.sh
+
+/public/*
+
+pnpm-lock.yaml
+package.json
